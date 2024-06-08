@@ -32,7 +32,7 @@ export default {
                 { title: 'Facebook', link: 'https://www.facebook.com/EnzelTel', i: 'mdi mdi-facebook' },
                 { title: 'Instagram', link: 'https://www.instagram.com/ferby_tel/', i: 'mdi mdi-instagram' },
                 { title: 'Github', link: 'https://github.com/Enzel-Telaumbanua/', i: 'mdi mdi-github' },
-                { title: 'Youtobe', link: 'https://github.com/Enzel-Telaumbanua/', i: 'mdi mdi-youtobe' },
+                { title: 'Youtobe', link: 'https://github.com/Enzel-Telaumbanua/', i: 'mdi mdi-youtube' },
             ]
         }
     }
